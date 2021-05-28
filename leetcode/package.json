@@ -1,0 +1,27 @@
+{
+	"name": "leetcode",
+	"version": "1.0.0",
+	"description": "My leetcode solutions...! :)",
+	"author" : {
+		"name": "Alex Munene",
+		"email": "62714471+enenumxela@users.noreply.github.com",
+		"url": "https://linkedin.com/in/enenumxela"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/enenumxela/leetcode.git"
+	},
+	"homepage": "https://github.com/enenumxela/leetcode",
+	"bugs": {
+		"url": "https://github.com/enenumxela/leetcode/issues"
+	},
+	"license": "MIT",
+	"scripts": {
+		"test": "jest",
+		"test:watch": "jest --watchAll",
+		"test:coverage": "jest --coverage"
+	},
+	"devDependencies": {
+		"jest": "^27.0.1"
+	}
+}
